@@ -3,7 +3,8 @@ I am a programmer who is just starting his path in the world of development. ğŸ§
 
 # 
 
-[![]](https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif)
+![Alt text](https://github.com/username/repositoryname/blob/master/gifs/animated.gif)
+
 
 ## ğŸŒ Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@BrayanH1009) 
