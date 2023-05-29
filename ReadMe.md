@@ -1,10 +1,6 @@
 # 💫 About Me:
 I am a programmer who is just starting his path in the world of development. 🧑🏻‍💻
 
-# 
-
-![Alt text](https://github.com/username/repositoryname/blob/master/gifs/animated.gif)
-
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@BrayanH1009) 
 
