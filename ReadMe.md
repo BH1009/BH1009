@@ -2,7 +2,7 @@
 
 My name is Brayan Hernandez, Welcome to my github.
 
-![code](https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS)
+![GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 I am a programmer who is just starting his path in the world of development. 🧑🏻‍💻
 
