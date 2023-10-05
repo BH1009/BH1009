@@ -1,6 +1,9 @@
 # 💫 About Me:
 I am a programmer who is just starting his path in the world of development. 🧑🏻‍💻
 
+I am currently working with nodejs express, mongoose and mongodb. 👨‍🏭
+
+I would like to start working on the frontend and improve as a developer since I am not very good with styles 🎨
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/brayan-hernandez-39228627a) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/BrayanH1009) 
